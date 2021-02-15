@@ -1,0 +1,9 @@
+/build/
+/.gradle/
+/.idea/
+/gradle/
+/gen/
+/target/
+/out/
+/nifi-router.processor-nar/target/
+/nifi-router.processor-processors/target/
