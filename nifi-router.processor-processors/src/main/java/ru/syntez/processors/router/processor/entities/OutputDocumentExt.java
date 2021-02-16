@@ -10,7 +10,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  * OrderDocumentExt model
  *
  * @author Skyhunter
- * @date 10.02.2021
+ * @date 16.02.2021
  */
 @XmlRootElement(name = "OutputDocumentExt")
 @XmlAccessorType(XmlAccessType.FIELD)
